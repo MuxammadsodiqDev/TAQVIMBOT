@@ -16,7 +16,7 @@ bugun =f'{datetime.datetime.today().date().day}-{datetime.datetime.today().date(
 
 
 #this is bot token
-BOT_TOKEN = "7263885575:AAGwycKMqcYvxixaR1bgIM2-C9BpWr3N3Fg"
+BOT_TOKEN = ""
 TOKEN = BOT_TOKEN
 
 dp = Dispatcher()
